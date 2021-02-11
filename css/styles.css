@@ -1,0 +1,57 @@
+body {
+	background-color: #1A1F29;
+	padding-top: 70px;
+}
+
+.navbar {
+	background-color: #ffffff; 
+	padding-left: 30px;
+	font-size: 20px;
+	font-family: 'Hammersmith One', sans-serif;
+}
+
+.navbar-nav > li{
+  margin-left:30px;
+  margin-right:30px;
+}
+
+html {
+  scroll-padding-top: 70px; /* height of sticky header */
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.75);
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+hr {
+	color: #ffffff;
+}
+
+.tab-content {
+	color: white;
+}
+
+button {
+	margin: 5px;
+}
+
+.featurette {
+	font-family: 'Quicksand', sans-serif;
+}
+
+.tab-content {
+	font-size: 18px;
+}
+
+.col-form-label, .container {
+	color: white;
+}
+
+.text-light a {
+	color: white;
+}
